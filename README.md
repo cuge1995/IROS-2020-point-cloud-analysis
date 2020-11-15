@@ -7,6 +7,8 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [Acquiring Mechanical Knowledge from 3D Point Clouds.](https://ras.papercept.net/proceedings/IROS20/0383.pdf)   
 
+- [Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation.](https://ras.papercept.net/proceedings/IROS20/0808.pdf)   
+  - [[Code](https://github.com/MMCheng/PointNL)]
 
 
 
