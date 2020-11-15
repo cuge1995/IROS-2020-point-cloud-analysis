@@ -10,5 +10,9 @@ IROS 2020 papers focusing on point cloud analysis
 - [Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation.](https://ras.papercept.net/proceedings/IROS20/0808.pdf)   
   - [[Code](https://github.com/MMCheng/PointNL)]
 
+- [Voxel-Based Representation Learning for Place Recognition Based on 3D Point Clouds.](https://ras.papercept.net/proceedings/IROS20/0686.pdf)  
+
+
+
 
 
