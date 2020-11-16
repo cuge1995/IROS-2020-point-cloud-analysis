@@ -12,7 +12,11 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [Voxel-Based Representation Learning for Place Recognition Based on 3D Point Clouds.](https://ras.papercept.net/proceedings/IROS20/0686.pdf)  
 
+- [Point Cloud Completion by Learning Shape Priors.](https://ras.papercept.net/proceedings/IROS20/0979.pdf)   
+  - [[Code](https://github.com/xiaogangw/point-cloud-completion-shape-prior)]
 
+- [Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.](https://ras.papercept.net/proceedings/IROS20/0855.pdf)  
+  - [[Code](https://github.com/irapkaist/removert)]
 
 
 
