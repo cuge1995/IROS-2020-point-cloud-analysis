@@ -18,5 +18,10 @@ IROS 2020 papers focusing on point cloud analysis
 - [Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.](https://ras.papercept.net/proceedings/IROS20/0855.pdf)  
   - [[Code](https://github.com/irapkaist/removert)]
 
+- [Learning Continuous Object Representations from Point Cloud Data.](https://ras.papercept.net/proceedings/IROS20/1045.pdf)   
+  - [[Code](https://github.com/hennels/Corn50)]
+
+- [Kinematic Multibody Model Generation of Deformable Linear Objects from Point Clouds.](https://ras.papercept.net/proceedings/IROS20/1071.pdf)  
+
 
 
