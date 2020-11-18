@@ -27,4 +27,4 @@ IROS 2020 papers focusing on point cloud analysis
   - [[Code](https://github.com/horizon-research/Real-Time-Spatio-Temporal-LiDAR-Point-Cloud-Compression)]
 
 - [GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles.](https://ras.papercept.net/proceedings/IROS20/1086.pdf)  
-
+  - [[Code](https://github.com/anshulpaigwar/GndNet)]
