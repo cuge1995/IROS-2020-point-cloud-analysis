@@ -28,3 +28,7 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles.](https://ras.papercept.net/proceedings/IROS20/1086.pdf)  
   - [[Code](https://github.com/anshulpaigwar/GndNet)]
+
+- [End-to-End 3D Point Cloud Learning for Registration Task Using Virtual Correspondences.](https://ras.papercept.net/proceedings/IROS20/1105.pdf)  
+
+
