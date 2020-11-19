@@ -31,4 +31,7 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [End-to-End 3D Point Cloud Learning for Registration Task Using Virtual Correspondences.](https://ras.papercept.net/proceedings/IROS20/1105.pdf)  
 
+- [Real-time detection of broccoli crops in 3D point clouds for autonomous robotic harvesting.](https://ras.papercept.net/proceedings/IROS20/1159.pdf)  
+
+
 
