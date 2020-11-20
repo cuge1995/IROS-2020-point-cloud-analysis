@@ -33,5 +33,15 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [Real-time detection of broccoli crops in 3D point clouds for autonomous robotic harvesting.](https://ras.papercept.net/proceedings/IROS20/1159.pdf)  
 
+- [Factor Graph based 3D Multi-Object Tracking in Point Clouds.](https://ras.papercept.net/proceedings/IROS20/1508.pdf)  
+
+- [Physical Human-Robot Interaction with Real Active Surfaces using Haptic Rendering on Point Clouds.](https://ras.papercept.net/proceedings/IROS20/1478.pdf)
+
+- [Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation.](https://ras.papercept.net/proceedings/IROS20/1184.pdf)  
+
+
+
+
+
 
 
