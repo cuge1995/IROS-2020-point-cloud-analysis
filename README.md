@@ -39,6 +39,11 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [Point Cloud Based Reinforcement Learning for Sim-to-Real and Partial Observability in Visual Navigation.](https://ras.papercept.net/proceedings/IROS20/1184.pdf)  
 
+- [Seed: A Segmentation-Based Egocentric 3D Point Cloud Descriptor for Loop Closure Detection.](https://ras.papercept.net/proceedings/IROS20/1716.pdf)  
+  - [[Code](https://github.com/irapkaist/scancontext)]
+
+- [GRIF Net: Gated Region of Interest Fusion Network for Robust 3D Object Detection from Radar Point Cloud and Monocular Image
+.](https://ras.papercept.net/proceedings/IROS20/1580.pdf)  
 
 
 
