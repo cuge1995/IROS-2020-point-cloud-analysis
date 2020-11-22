@@ -45,7 +45,9 @@ IROS 2020 papers focusing on point cloud analysis
 - [GRIF Net: Gated Region of Interest Fusion Network for Robust 3D Object Detection from Radar Point Cloud and Monocular Image
 .](https://ras.papercept.net/proceedings/IROS20/1580.pdf)  
 
+- [A Point Cloud Registration Pipeline using Gaussian Process Regression for Bathymetric SLAM.](https://ras.papercept.net/proceedings/IROS20/2494.pdf)
 
+- [PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation.](https://ras.papercept.net/proceedings/IROS20/2256.pdf)  
 
 
 
