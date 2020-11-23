@@ -49,6 +49,8 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [PBP-Net: Point Projection and Back-Projection Network for 3D Point Cloud Segmentation.](https://ras.papercept.net/proceedings/IROS20/2256.pdf)  
 
+- [A Novel Coding Architecture for LiDAR Point Cloud Sequence.](https://ras.papercept.net/proceedings/IROS20/2753.pdf)
 
+- [Point Cloud Projective Analysis for Part-based Grasp Planning.](https://ras.papercept.net/proceedings/IROS20/2618.pdf)  
 
 
