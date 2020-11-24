@@ -53,4 +53,7 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [Point Cloud Projective Analysis for Part-based Grasp Planning.](https://ras.papercept.net/proceedings/IROS20/2618.pdf)  
 
+- [3D Instance Embedding Learning with a Structure-Aware Loss Function for Point Cloud Segmentation.](https://ras.papercept.net/proceedings/IROS20/2782.pdf)   
 
+- [3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation.](https://ras.papercept.net/proceedings/IROS20/2796.pdf)   
+  - [[Code](https://github.com/Shathe/3D-MiniNet)]
