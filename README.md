@@ -57,3 +57,8 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [3D-MiniNet: Learning a 2D Representation from Point Clouds for Fast and Efficient 3D LIDAR Semantic Segmentation.](https://ras.papercept.net/proceedings/IROS20/2796.pdf)   
   - [[Code](https://github.com/Shathe/3D-MiniNet)]
+
+- [Robust RL-Based Map-less Local Planning: Using 2D Point Clouds as Observations.](https://ras.papercept.net/proceedings/IROS20/2921.pdf)   
+
+- [ECG: Edge-aware Point Cloud Completion with Graph Convolution.](https://ras.papercept.net/proceedings/IROS20/2954.pdf)   
+  - [[Code](https://github.com/paul007pl/ECG)]
