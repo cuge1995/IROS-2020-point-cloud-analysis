@@ -62,3 +62,6 @@ IROS 2020 papers focusing on point cloud analysis
 
 - [ECG: Edge-aware Point Cloud Completion with Graph Convolution.](https://ras.papercept.net/proceedings/IROS20/2954.pdf)   
   - [[Code](https://github.com/paul007pl/ECG)]
+
+- [SalsaNext: Fast, Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving.](https://ras.papercept.net/proceedings/IROS20/3154.pdf) 
+  - [[Code](https://github.com/Halmstad-University/SalsaNext)]
